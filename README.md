@@ -56,3 +56,6 @@ You can adjust a sequence of single sliders by yourself.
 ```Shell
 python evaluation/RunExperiment.py --mode self --image_names 19
 ```
+
+## Results
+Results of our method and compared previous methods can be downloaded from [here](https://www.hal.t.u-tokyo.ac.jp/~kosugi/crowd-powered/results.zip).
