@@ -1,4 +1,4 @@
-# Crowd-Powered Local Photo Enhancement Featuring Active Learning Based Parameter Optimization
+# Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter
 
 ## Requirements
 - Python 3.5.9
