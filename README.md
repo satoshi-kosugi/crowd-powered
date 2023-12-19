@@ -1,4 +1,5 @@
 # Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter
+This is the official implementation of the [paper](https://ieeexplore.ieee.org/abstract/document/10005188) in TCSVT2023.
 
 ## Requirements
 - Python 3.5.9
@@ -59,3 +60,16 @@ python evaluation/RunExperiment.py --mode self --image_names 19
 
 ## Results
 Results of our method and compared previous methods can be downloaded from [here](https://www.hal.t.u-tokyo.ac.jp/~kosugi/crowd-powered/results.zip).
+
+## Citation
+If you find our research useful in your research, please consider citing:
+
+    @article{kosugi2023crowd,
+        title={Crowd-Powered Photo Enhancement Featuring an Active Learning Based Local Filter},
+        author={Kosugi, Satoshi and Yamasaki, Toshihiko},
+        journal={IEEE Transactions on Circuits and Systems for Video Technology},
+        volume={33},
+        number={7},
+        pages={6493--6501},
+        year={2023}
+    }
